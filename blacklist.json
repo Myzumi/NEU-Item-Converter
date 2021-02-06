@@ -1,0 +1,4 @@
+{
+    "absoulute": ["minecraft:carpet", "minecraft:banner", "minecraft:wool", "minecraft:enchanted_book", "minecraft:potion"],
+    "includes": ["acacia", "rail"]
+}
