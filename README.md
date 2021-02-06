@@ -6,3 +6,10 @@ copy everything from items.yml into a Type in MmoItems, reload the plugins and y
 # Incompleted!
 
 Some items are still missing the right types, i will slowly fix that but might not be fully
+
+# Future
+
+Plans for the Future:
+
+- Add support for ItemEdit
+- Add Support for MythicMobs?
